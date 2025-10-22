@@ -1,0 +1,7 @@
+{
+  "name": "Week Number Plugin",
+  "description": "This Zyllio plugin implements Week number for a given date",
+  "company": "Zyllio team",
+  "icon": "https://studio.zyllio.com/assets/icon.png",
+  "version": "2.0.0"
+}
