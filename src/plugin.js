@@ -59,6 +59,6 @@
     }]
   }
 
-  zySdk.services.registry.registerFunction(WeekNumberMetadata, WeekNumberFunction)
+  zySdk.services.registry.registerFunction(WeekNumberMetadata, new WeekNumberFunction())
 
 })();
